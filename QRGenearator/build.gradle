@@ -2,7 +2,7 @@ apply plugin: 'com.android.library'
 apply plugin: 'com.jfrog.bintray'
 apply plugin: 'com.github.dcendents.android-maven'
 
-group = 'androidmads.library.qrgenearator' // Change this to match your package name
+group = 'idindevelop.library.qrgenearator' // Change this to match your package name
 version = '1.0.4' // Change this to match your version number
 
 android {
